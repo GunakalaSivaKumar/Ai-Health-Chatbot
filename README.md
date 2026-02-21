@@ -60,13 +60,15 @@ Displays relevant medical information and precautions
 
 
 STRUCTURE OF THE CODE FOR EXECUTION
-Health_chatbot.py
-folder name "Data"
+
+*Health_chatbot.py
+
+*folder name "Data"
               |___dataset
               |___Testing
               |___Training
 
-folder name "MasterData"
+*folder name "MasterData"
               |___symptom_Description
               |___symptom_precaution
               |___Symptom_severity
